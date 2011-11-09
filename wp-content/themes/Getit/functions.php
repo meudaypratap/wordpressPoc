@@ -192,6 +192,26 @@ function twentyeleven_widgets_init()
 }
 
 add_action('widgets_init', 'twentyeleven_widgets_init');
+function wp_db_connect($server = DB_HOST, $username = DB_USER, $password = DB_PASSWORD, $database = DB_NAME)
+{
+    return new mysqli(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME);
+}
 
+function get_n_latest_posts($number_of_posts)
+{
+    $posts = array();
+    $sql = "select * from wp_posts where post_status = 'publish' and post_type = 'post' order by post_date desc limit " . $number_of_posts;
+    $link = wp_db_connect();
+    if (!$link->connect_errno) {
+        if ($res = $link->query($sql)) {
+            while ($row = $res->fetch_assoc()) {
+                $posts[] = $row;
+            }
+            $res->free();
+        }
+    }
+    $link->close();
+    return $posts;
+}
 
 ?>
