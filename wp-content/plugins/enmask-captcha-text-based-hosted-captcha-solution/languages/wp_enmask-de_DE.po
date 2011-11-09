@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Enmask\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-26 12:13+0545\n"
+"PO-Revision-Date: 2011-08-26 12:15+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../enmask.captcha.php:49
+msgid "Captcha was not valid."
+msgstr "Captcha war nicht gültig."
+
+#: ../enmask_captcha_settings.php:102
+msgid "Please enable javascript on your browser."
+msgstr "Bitte aktivieren Sie Javascript in Ihrem Browser."
+
+#: ../enmask_captcha_settings.php:113
+msgid "Enmask Captcha Settings"
+msgstr "Enmask Captcha-Einstellungen"
+
+#: ../enmask_captcha_settings.php:114
+msgid "EnMask is founded with the ideas of helping people control their online content, privacy and freedom. For the detail information please "
+msgstr "EnMask ist mit den Ideen der Menschen hilft, Kontrolle über ihre Online-Inhalte, Privatsphäre und Freiheit gegründet. Für die Detail-Informationen bitte"
+
+#: ../enmask_captcha_settings.php:114
+msgid "click here"
+msgstr "klicken Sie hier"
+
+#: ../enmask_captcha_settings.php:117
+msgid "Activation options"
+msgstr "Activation-Optionen"
+
+#: ../enmask_captcha_settings.php:122
+msgid "Enable for comment forms"
+msgstr "Aktivieren Sie für eine Stellungnahme Formen"
+
+#: ../enmask_captcha_settings.php:129
+msgid "Enable for registration forms"
+msgstr "Aktivieren Sie für Anmeldeformulare"
+
+#: ../enmask_captcha_settings.php:136
+msgid "Enable for logged in users"
+msgstr "Aktivieren Sie für eingeloggte Benutzer"
+
+#: ../enmask_captcha_settings.php:143
+msgid "Enable for lost password"
+msgstr "Aktivieren Sie für verlorenes Passwort"
+
+#: ../enmask_captcha_settings.php:149
+msgid "Enable for login form"
+msgstr "Aktivieren Sie für Login-Formular"
+
+#: ../enmask_captcha_settings.php:153
+msgid "Save enmask Options"
+msgstr "Speichern enmask Optionen"
+
+#: ../enmask_captcha_settings.php:153
+msgid "Save enmask Changes"
+msgstr "Save Changes enmask"
+
+#: ../wp_enmask.php:21
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../wp_enmask_admin.php:12
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Sie verfügen nicht über ausreichende Berechtigungen, um diese Seite zuzugreifen."
+
+#: ../wp_enmask_client.php:73
+#: ../wp_enmask_client.php:146
+#: ../wp_enmask_client.php:237
+msgid "You have entered the wrong CAPTCHA phrase."
+msgstr "Sie haben die falsche CAPTCHA eingegebene Phrase."
+
+#: ../wp_enmask_client.php:76
+msgid "Post Comment"
+msgstr "Kommentar hinzufügen"
+
+#: ../wp_enmask_client.php:107
+msgid "Invalid CAPTCHA phrase"
+msgstr "Invalid CAPTCHA Satz"
+
+#: ../wp_enmask_client.php:136
+#: ../wp_enmask_client.php:146
+#: ../wp_enmask_client.php:198
+#: ../wp_enmask_client.php:222
+#: ../wp_enmask_client.php:237
+msgid "ERROR"
+msgstr "ERROR"
+
+#: ../wp_enmask_client.php:136
+#: ../wp_enmask_client.php:222
+msgid "You have entered blank CAPTCHA phrase."
+msgstr "Sie haben leere CAPTCHA eingegebene Phrase."
+
+#: ../wp_enmask_client.php:198
+msgid "You have entered the wrong CAPTCHA phrase. Press your browser's back button and try again."
+msgstr "Sie haben die falsche CAPTCHA eingegebene Phrase. Drücken Sie Ihrem Browser die Zurück-Schaltfläche und versuchen Sie es erneut."
+

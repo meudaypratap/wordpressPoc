@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Enmask\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-26 12:17+0545\n"
+"PO-Revision-Date: 2011-08-26 12:17+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../enmask.captcha.php:49
+msgid "Captcha was not valid."
+msgstr "验证码无效。"
+
+#: ../enmask_captcha_settings.php:102
+msgid "Please enable javascript on your browser."
+msgstr "请启用浏览器的JavaScript。"
+
+#: ../enmask_captcha_settings.php:113
+msgid "Enmask Captcha Settings"
+msgstr "Enmask验证码设置"
+
+#: ../enmask_captcha_settings.php:114
+msgid "EnMask is founded with the ideas of helping people control their online content, privacy and freedom. For the detail information please "
+msgstr "EnMask成立帮助人们控制自己在网上的内容，隐私和自由的思想。如需详细资料，请"
+
+#: ../enmask_captcha_settings.php:114
+msgid "click here"
+msgstr "请点击这里"
+
+#: ../enmask_captcha_settings.php:117
+msgid "Activation options"
+msgstr "激活选项"
+
+#: ../enmask_captcha_settings.php:122
+msgid "Enable for comment forms"
+msgstr "启用评论形式"
+
+#: ../enmask_captcha_settings.php:129
+msgid "Enable for registration forms"
+msgstr "登记表格启用"
+
+#: ../enmask_captcha_settings.php:136
+msgid "Enable for logged in users"
+msgstr "登录用户启用"
+
+#: ../enmask_captcha_settings.php:143
+msgid "Enable for lost password"
+msgstr "启用丢失的密码"
+
+#: ../enmask_captcha_settings.php:149
+msgid "Enable for login form"
+msgstr "启用登录表单"
+
+#: ../enmask_captcha_settings.php:153
+msgid "Save enmask Options"
+msgstr "保存enmask选项"
+
+#: ../enmask_captcha_settings.php:153
+msgid "Save enmask Changes"
+msgstr "保存enmask变化"
+
+#: ../wp_enmask.php:21
+msgid "Settings"
+msgstr "设置"
+
+#: ../wp_enmask_admin.php:12
+msgid "You do not have sufficient permissions to access this page."
+msgstr "您没有足够的权限访问此页面。"
+
+#: ../wp_enmask_client.php:73
+#: ../wp_enmask_client.php:146
+#: ../wp_enmask_client.php:237
+msgid "You have entered the wrong CAPTCHA phrase."
+msgstr "您已输入了错误的CAPTCHA短语。"
+
+#: ../wp_enmask_client.php:76
+msgid "Post Comment"
+msgstr "发表评论"
+
+#: ../wp_enmask_client.php:107
+msgid "Invalid CAPTCHA phrase"
+msgstr "CAPTCHA短语无效"
+
+#: ../wp_enmask_client.php:136
+#: ../wp_enmask_client.php:146
+#: ../wp_enmask_client.php:198
+#: ../wp_enmask_client.php:222
+#: ../wp_enmask_client.php:237
+msgid "ERROR"
+msgstr "错误"
+
+#: ../wp_enmask_client.php:136
+#: ../wp_enmask_client.php:222
+msgid "You have entered blank CAPTCHA phrase."
+msgstr "您已进入空白CAPTCHA短语。"
+
+#: ../wp_enmask_client.php:198
+msgid "You have entered the wrong CAPTCHA phrase. Press your browser's back button and try again."
+msgstr "您已输入了错误的CAPTCHA短语。按浏览器的后退按钮，然后再试一次。"
+

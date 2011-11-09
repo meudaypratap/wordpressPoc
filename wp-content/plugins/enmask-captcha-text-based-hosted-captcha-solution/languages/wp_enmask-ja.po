@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Enmask\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-26 12:12+0545\n"
+"PO-Revision-Date: 2011-08-26 12:12+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../enmask.captcha.php:49
+msgid "Captcha was not valid."
+msgstr "キャプチャは有効ではありませんでした。"
+
+#: ../enmask_captcha_settings.php:102
+msgid "Please enable javascript on your browser."
+msgstr "お使いのブラウザのJavaScript設定を有効にしてください。"
+
+#: ../enmask_captcha_settings.php:113
+msgid "Enmask Captcha Settings"
+msgstr "キャプチャ設定をEnmask"
+
+#: ../enmask_captcha_settings.php:114
+msgid "EnMask is founded with the ideas of helping people control their online content, privacy and freedom. For the detail information please "
+msgstr "EnMaskは、人々が彼らのオンラインコンテンツ、プライバシーと自由をコントロールする手助けのアイデアで設立された。してください詳細情報については、"
+
+#: ../enmask_captcha_settings.php:114
+msgid "click here"
+msgstr "ここをクリック"
+
+#: ../enmask_captcha_settings.php:117
+msgid "Activation options"
+msgstr "活性化のオプション"
+
+#: ../enmask_captcha_settings.php:122
+msgid "Enable for comment forms"
+msgstr "コメントフォームの有効化"
+
+#: ../enmask_captcha_settings.php:129
+msgid "Enable for registration forms"
+msgstr "登録フォームの有効化"
+
+#: ../enmask_captcha_settings.php:136
+msgid "Enable for logged in users"
+msgstr "ログインユーザーは、有効にする"
+
+#: ../enmask_captcha_settings.php:143
+msgid "Enable for lost password"
+msgstr "失われたパスワードを有効にする"
+
+#: ../enmask_captcha_settings.php:149
+msgid "Enable for login form"
+msgstr "ログインフォームのために有効にします。"
+
+#: ../enmask_captcha_settings.php:153
+msgid "Save enmask Options"
+msgstr "オプションをenmask保存"
+
+#: ../enmask_captcha_settings.php:153
+msgid "Save enmask Changes"
+msgstr "変更をenmask保存"
+
+#: ../wp_enmask.php:21
+msgid "Settings"
+msgstr "設定"
+
+#: ../wp_enmask_admin.php:12
+msgid "You do not have sufficient permissions to access this page."
+msgstr "このページにアクセスするための十分な権限がありません。"
+
+#: ../wp_enmask_client.php:73
+#: ../wp_enmask_client.php:146
+#: ../wp_enmask_client.php:237
+msgid "You have entered the wrong CAPTCHA phrase."
+msgstr "間違ったCAPTCHAフレーズを入力している。"
+
+#: ../wp_enmask_client.php:76
+msgid "Post Comment"
+msgstr "コメントを投稿"
+
+#: ../wp_enmask_client.php:107
+msgid "Invalid CAPTCHA phrase"
+msgstr "無効なCAPTCHAフレーズ"
+
+#: ../wp_enmask_client.php:136
+#: ../wp_enmask_client.php:146
+#: ../wp_enmask_client.php:198
+#: ../wp_enmask_client.php:222
+#: ../wp_enmask_client.php:237
+msgid "ERROR"
+msgstr "エラー"
+
+#: ../wp_enmask_client.php:136
+#: ../wp_enmask_client.php:222
+msgid "You have entered blank CAPTCHA phrase."
+msgstr "あなたはブランクCAPTCHAフレーズを入力しました。"
+
+#: ../wp_enmask_client.php:198
+msgid "You have entered the wrong CAPTCHA phrase. Press your browser's back button and try again."
+msgstr "間違ったCAPTCHAフレーズを入力している。ブラウザの[戻る]ボタンを押して、もう一度やり直してください。"
+

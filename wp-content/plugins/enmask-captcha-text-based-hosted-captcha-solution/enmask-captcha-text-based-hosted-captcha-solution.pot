@@ -1,0 +1,103 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/enmask-captcha-text-based-"
+"hosted-captcha-solution\n"
+"POT-Creation-Date: 2011-09-06 06:10:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: enmask.captcha.php:49
+msgid "Captcha was not valid."
+msgstr ""
+
+#: enmask_captcha_settings.php:102
+msgid "Please enable javascript on your browser."
+msgstr ""
+
+#: enmask_captcha_settings.php:113
+msgid "Enmask Captcha Settings"
+msgstr ""
+
+#: enmask_captcha_settings.php:114
+msgid ""
+"EnMask is founded with the ideas of helping people control their online "
+"content, privacy and freedom. For the detail information please "
+msgstr ""
+
+#: enmask_captcha_settings.php:114
+msgid "click here"
+msgstr ""
+
+#: enmask_captcha_settings.php:117
+msgid "Activation options"
+msgstr ""
+
+#: enmask_captcha_settings.php:122
+msgid "Enable for comment forms"
+msgstr ""
+
+#: enmask_captcha_settings.php:129
+msgid "Enable for registration forms"
+msgstr ""
+
+#: enmask_captcha_settings.php:136
+msgid "Enable for logged in users"
+msgstr ""
+
+#: enmask_captcha_settings.php:143
+msgid "Enable for lost password"
+msgstr ""
+
+#: enmask_captcha_settings.php:149
+msgid "Enable for login form"
+msgstr ""
+
+#: enmask_captcha_settings.php:153
+msgid "Save enmask Options"
+msgstr ""
+
+#: enmask_captcha_settings.php:153
+msgid "Save enmask Changes"
+msgstr ""
+
+#: wp_enmask_admin.php:12
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: wp_enmask.php:21
+msgid "Settings"
+msgstr ""
+
+#: wp_enmask_client.php:77 wp_enmask_client.php:150 wp_enmask_client.php:241
+msgid "You have entered the wrong CAPTCHA phrase."
+msgstr ""
+
+#: wp_enmask_client.php:80
+msgid "Post Comment"
+msgstr ""
+
+#: wp_enmask_client.php:111
+msgid "Invalid CAPTCHA phrase"
+msgstr ""
+
+#: wp_enmask_client.php:140 wp_enmask_client.php:150 wp_enmask_client.php:202
+#: wp_enmask_client.php:226 wp_enmask_client.php:241
+msgid "ERROR"
+msgstr ""
+
+#: wp_enmask_client.php:140 wp_enmask_client.php:226
+msgid "You have entered blank CAPTCHA phrase."
+msgstr ""
+
+#: wp_enmask_client.php:202
+msgid ""
+"You have entered the wrong CAPTCHA phrase. Press your browser's back button "
+"and try again."
+msgstr ""
