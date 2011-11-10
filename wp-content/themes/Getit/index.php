@@ -14,9 +14,9 @@ get_header();
                     <a href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/">Home</a>
                     <img src="<?php get_image_uri('arrow.jpg') ?>" align="absmiddle"/>
                     Blogs
-                    <span class="register">&nbsp;|&nbsp;<a href="wp-login.php?action=register"
+                    <span class="register">&nbsp;|&nbsp;<a href="/wp-login.php?action=register"
                                                            target="_blank">Register</a></span>
-                    <span class="register"><a href="wp-admin/" target="_blank">Login</a></span>
+                    <span class="register"><a href="/wp-admin/" target="_blank">Login</a></span>
                 </div>
 
                 <div id="homeMain" class="clearfix">

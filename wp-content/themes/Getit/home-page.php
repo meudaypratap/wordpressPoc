@@ -177,7 +177,7 @@ get_header();
                 <h5 class="article-title"> <?php echo substr($the_post['post_title'], 0, 20); ?> </h5>
                 <?php echo substr($the_post['post_content'], 0, 90);  ?> <br/>
                 <br/>
-                <a href="<?php echo get_permalink($the_post['id'])?>" class="morefirst">More</a></div>
+                <a href="<?php echo get_permalink($the_post['ID'])?>" class="morefirst">More</a></div>
             <?php
 
         }

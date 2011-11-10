@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f970fb86-b59d-497e-b7ce-4cf3de540f80" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/Getit/blog.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/Getit/home-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/Getit/home-page.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/Getit/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/Getit/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/Getit/showcase.php" afterPath="$PROJECT_DIR$/wp-content/themes/Getit/showcase.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/Getit/sidebar-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/Getit/sidebar-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/Getit/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/Getit/style.css" />
     </list>
     <ignored path="wordpress.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,16 +31,34 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="104" column="18" selection-start="4355" selection-end="4355" vertical-scroll-proportion="-43.916668">
+            <state line="20" column="0" selection-start="792" selection-end="792" vertical-scroll-proportion="8.75">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyeleven/index.php">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="30" selection-start="1282" selection-end="1282" vertical-scroll-proportion="0.80213904">
+            <state line="791" column="16" selection-start="13865" selection-end="13865" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home-page.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/home-page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="183" column="12" selection-start="8773" selection-end="8773" vertical-scroll-proportion="0.95988536">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="link-template.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/link-template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="96" column="23" selection-start="2653" selection-end="2653" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -50,7 +67,7 @@
       <file leaf-file-name="page.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="47" selection-start="807" selection-end="807" vertical-scroll-proportion="-11.875">
+            <state line="19" column="47" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -59,7 +76,7 @@
       <file leaf-file-name="showcase.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/showcase.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="14" selection-start="198" selection-end="198" vertical-scroll-proportion="-4.375">
+            <state line="7" column="14" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -68,7 +85,7 @@
       <file leaf-file-name="head.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/Diwali/head.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="14" selection-start="1089" selection-end="1089" vertical-scroll-proportion="-1.5">
+            <state line="17" column="14" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -77,7 +94,7 @@
       <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="157" column="54" selection-start="6279" selection-end="6279" vertical-scroll-proportion="-5.9166665">
+            <state line="157" column="54" selection-start="6279" selection-end="6279" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -86,7 +103,7 @@
       <file leaf-file-name="sidebar-page.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/sidebar-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="-1.875">
+            <state line="3" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -115,9 +132,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/diwali/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/diwali/functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/Getit/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/Getit/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/Diwali/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/Diwali/functions.php" />
@@ -131,6 +146,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/Getit/blog.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/Getit/home.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/Getit/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/Getit/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/Getit/home-page.php" />
       </list>
     </option>
   </component>
@@ -160,6 +177,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -257,16 +275,15 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="preferences.keymap" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig" serverName="Wordpress POC" serverId="e1698abb-8156-429c-8150-4517585e2ae2">
     <servers>
@@ -367,20 +384,20 @@
     <frame x="-8" y="-5" width="1382" height="781" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Phing Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20577069" sideWeight="0.6709265" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2095672" sideWeight="0.6709265" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -429,107 +446,100 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Diwali/inc/theme-options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="199" column="9" selection-start="7942" selection-end="7942" vertical-scroll-proportion="0.34686348">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Diwali/sidebar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="956" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/sidebar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="51" selection-start="6023" selection-end="6023" vertical-scroll-proportion="-13.833333">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-admin/includes/post.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1160" column="27" selection-start="34329" selection-end="34329" vertical-scroll-proportion="-10.625">
-          <folding />
-        </state>
+        <state line="1160" column="27" selection-start="34329" selection-end="34329" vertical-scroll-proportion="-10.625" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-admin/post.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Diwali/head.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="14" selection-start="1089" selection-end="1089" vertical-scroll-proportion="-1.5">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/Diwali/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="79" selection-start="760" selection-end="760" vertical-scroll-proportion="0.41512915" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyeleven/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="464" selection-end="464" vertical-scroll-proportion="0.10695187" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/post-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="164" column="9" selection-start="4108" selection-end="4108" vertical-scroll-proportion="0.34686348" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="47" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/showcase.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="14" selection-start="198" selection-end="198" vertical-scroll-proportion="-4.375">
+        <state line="7" column="14" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/sidebar-page.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/Diwali/head.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="-1.875">
+        <state line="17" column="14" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="157" column="54" selection-start="6279" selection-end="6279" vertical-scroll-proportion="-5.9166665">
+        <state line="157" column="54" selection-start="6279" selection-end="6279" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/page.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/sidebar-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="47" selection-start="807" selection-end="807" vertical-scroll-proportion="-11.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Diwali/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="79" selection-start="760" selection-end="760" vertical-scroll-proportion="0.41512915">
+        <state line="3" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/rtl.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="495" column="52" selection-start="9137" selection-end="9137" vertical-scroll-proportion="0.0">
+        <state line="495" column="52" selection-start="9137" selection-end="9137" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="791" column="16" selection-start="13865" selection-end="13865" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="18" selection-start="4355" selection-end="4355" vertical-scroll-proportion="-43.916668">
+        <state line="20" column="0" selection-start="792" selection-end="792" vertical-scroll-proportion="8.75">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyeleven/index.php">
+    <entry file="file://$PROJECT_DIR$/wp-includes/link-template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="30" selection-start="1282" selection-end="1282" vertical-scroll-proportion="0.80213904">
+        <state line="96" column="23" selection-start="2653" selection-end="2653" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/home-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="183" column="12" selection-start="8773" selection-end="8773" vertical-scroll-proportion="0.95988536">
           <folding />
         </state>
       </provider>
