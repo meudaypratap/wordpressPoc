@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f970fb86-b59d-497e-b7ce-4cf3de540f80" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f970fb86-b59d-497e-b7ce-4cf3de540f80" name="Default" comment="" />
     <ignored path="wordpress.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,25 +26,25 @@
       <file leaf-file-name="home-page.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/home-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="4" selection-start="592" selection-end="592" vertical-scroll-proportion="-10.0">
+            <state line="0" column="0" selection-start="0" selection-end="37" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nggallery.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="nggallery.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/nextgen-gallery/css/nggallery.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="136" column="4" selection-start="2360" selection-end="2360" vertical-scroll-proportion="0.2746114">
+            <state line="136" column="4" selection-start="2360" selection-end="2360" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="gallery.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/nextgen-gallery/view/gallery.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="14" selection-start="1800" selection-end="1800" vertical-scroll-proportion="-14.541667">
+            <state line="17" column="0" selection-start="593" selection-end="593" vertical-scroll-proportion="0.4704797">
               <folding />
             </state>
           </provider>
@@ -56,15 +54,6 @@
         <entry file="file://$PROJECT_DIR$/wp-config.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="26" column="21" selection-start="904" selection-end="904" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/page.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="47" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -129,9 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/Diwali/functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/Diwali/header.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/Diwali/sidebar.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/Getit/sidebar.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/Getit/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/Getit/showcase.php" />
@@ -145,6 +131,9 @@
         <option value="$PROJECT_DIR$/wp-content/plugins/nextgen-gallery/view/gallery.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/Getit/home-page.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/nextgen-gallery/css/nggallery.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/Getit/gallery-template.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/Getit/gallery-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/Getit/photos.php" />
       </list>
     </option>
   </component>
@@ -222,7 +211,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
+              <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -240,63 +229,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
+              <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nextgen-gallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wordpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wordpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nextgen-gallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wordpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wordpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nextgen-gallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="Getit" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -473,13 +410,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="792" selection-end="792" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="791" column="16" selection-start="13865" selection-end="13865" vertical-scroll-proportion="0.0" />
@@ -548,23 +478,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/nextgen-gallery/view/gallery.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="14" selection-start="1800" selection-end="1800" vertical-scroll-proportion="-14.541667">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/Getit/home-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="4" selection-start="592" selection-end="592" vertical-scroll-proportion="-10.0">
+        <state line="0" column="0" selection-start="0" selection-end="37" vertical-scroll-proportion="-0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/nextgen-gallery/css/nggallery.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="136" column="4" selection-start="2360" selection-end="2360" vertical-scroll-proportion="0.2746114">
+        <state line="136" column="4" selection-start="2360" selection-end="2360" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/nextgen-gallery/view/gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="593" selection-end="593" vertical-scroll-proportion="0.4704797">
           <folding />
         </state>
       </provider>
