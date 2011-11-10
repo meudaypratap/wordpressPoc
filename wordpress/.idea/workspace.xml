@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78eea60d-42ce-4e07-9b2d-c5102c3fb808" name="Default" comment="" />
-    <ignored path="diwali.iws" />
+    <list default="true" id="2073a875-7ad4-4496-8299-1dcd7d66b70a" name="Default" comment="" />
+    <ignored path="wordpress.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +19,7 @@
     <disable_hints />
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="diwali" />
+    <favorites_list name="wordpress" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -47,18 +47,11 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Favorites" />
       <pane id="Scope" />
       <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="diwali" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
-      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -87,8 +80,8 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <created>1320730794347</created>
-      <updated>1320730794347</updated>
+      <created>1320905727875</created>
+      <updated>1320905727875</updated>
     </task>
     <servers />
   </component>
